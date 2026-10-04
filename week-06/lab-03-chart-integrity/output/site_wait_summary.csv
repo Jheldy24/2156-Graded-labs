@@ -1,0 +1,4 @@
+site,count,mean_wait_minutes,median_wait_minutes
+Central,11,22.18,22.0
+North,11,38.0,38.0
+South,10,28.7,28.5
