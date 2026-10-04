@@ -1,0 +1,6 @@
+column,rows,missing_values,distinct_values
+delivery_id,22,0,22
+delivery_window,22,0,3
+route_type,22,0,3
+delay_minutes,22,1,21
+package_weight_kg,22,0,22
